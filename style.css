@@ -1,0 +1,141 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #f0f2f5;
+    
+}
+#logo{
+    width: 45%;
+    height: 80vh;
+    /* border: 1px solid black; */
+    display: inline-block;
+}
+#facebook{
+    width: 40%;
+    margin: 4%;
+    margin-top: 16%;
+}
+#click{
+    color: #606799;
+    margin-left: 8%
+}
+h1{
+
+    color: #333333;
+    margin-left: 8%;
+}
+#arham{
+    display: inline-block;
+    /* border: 1px solid black; */
+    height: 30vh;
+    width: 35%;
+    margin-left: 8%;
+    border-radius: 9px;
+    background-color: white;
+    box-shadow: 30px  grey;
+    
+}
+#add{
+    display: inline-block;
+    /* border: 1px solid black; */
+    height: 30vh;
+    width: 35%;
+    border-radius: 9px;
+    background-color: white;
+}
+#ar{
+    height: 25vh;
+    width: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    }
+#arh{
+    text-align: center;
+    font-size: 22px;
+    color: #606799;
+}
+#add2{
+   margin-left: 30%;
+   margin-top: 30%;
+   position: absolute;
+   top: -30px;
+   left: -60px;
+   border-top-left-radius: 8px;
+   border-top-right-radius: 8px;
+}
+#img{
+    width: 100%;
+    height: 25vh;
+    background-color: #f5f6f7;
+}
+#acc{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 7px;
+    color: #6466ff;
+}
+#signin{
+    width: 45%;
+    height: 80vh;
+    /* border: 1px solid black; */
+    display: inline-block;
+    position: absolute;
+    top: 120px;
+}
+#form{
+    width: 80%;
+    height: 40vh;
+    /* border: 1px solid black; */
+    margin-left: 50px;
+    margin-top: 70px;
+    border-radius: 9px;
+    background-color: white;
+    box-shadow: 6px 6px 6px 6px rgba(128, 128, 128, 0.281);
+}
+#Email{
+    width: 90%;
+    height: 5vh;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 7px;
+    border: none;
+    border: 1px solid #b9babd;
+}
+#pass{
+    width: 90%;
+    height: 5vh;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 7px;
+    border: 1px solid #b9babd;
+}
+#log{
+    color: white;
+    background-color: #0866ff;
+    border: none;
+    width: 90%;
+    height: 5vh;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 7px;
+    font-size: 20px;
+    
+}
+#for{
+    text-align: center;
+    color: #0866ff;
+    line-height: 24px;
+}
+#create{
+    color: white;
+    background-color: #42b72a;
+    font-size: 20px;
+    height: 5vh;
+    width: 45%;
+    border: none;
+    border-radius: 8px;
+    margin-left: 115px;
+    margin-top: 20px;
+}
